@@ -24,7 +24,7 @@ NOTE: The results of this script (i.e. (1) word embeddings & (2) labled datasets
 
 
 ## Cite
-Sajawel Ahmed and Alexander Mehler, "Resource-Size matters: Improving Neural Named Entity Recognition with Optimized Large Corpora" in Proceedings of the 17th IEEE International Conference on Machine Learning and Applications (ICMLA), 2018. accepted [[PDF]](https://arxiv.org/pdf/1807.10675.pdf)
+Sajawel Ahmed and Alexander Mehler, "Resource-Size matters: Improving Neural Named Entity Recognition with Optimized Large Corpora" in Proceedings of the 17th IEEE International Conference on Machine Learning and Applications (ICMLA), 2018. [[PDF]](https://arxiv.org/pdf/1807.10675.pdf)
 
 ## BibTeX
 
@@ -34,7 +34,6 @@ author		= {Sajawel Ahmed and Alexander Mehler},
 title		= {{Resource-Size matters: Improving Neural Named Entity Recognition with Optimized Large Corpora}},
 booktitle	= {Proceedings of the 17th IEEE International Conference on Machine Learning and Applications (ICMLA)},
 location	= {Orlando, Florida, USA},
-note		= {accepted},
 pdf		= {https://arxiv.org/pdf/1807.10675.pdf},
 year		= 2018
 }
