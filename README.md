@@ -2,7 +2,7 @@
 
 This short script performs a grammar-dependent morphological processing of the raw text data. Such data can be either be a large text corpus used for computing the word embeddings or a smaller labeled dataset used for training the neural network according to a given downstream-task (e.g. named entity recognition). Using this script prior to any training process improves the quality of the original resources, utimately leading to an increase of the final performance.
 
-The pre-trained word embeddings produced with this morphological processing are provided under the following [link](https://www.texttechnologylab.org/resources2018/). 
+The pre-trained word embeddings produced with this morphological processing are provided (under the [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/legalcode) license) at the following [link](https://www.texttechnologylab.org/resources2018/). 
 
 NOTE: The results of this script (i.e. (1) word embeddings & (2) labled datasets) can be used to train the [NER Tagger](https://github.com/glample/tagger) for reproducing and evaluating the performance boost. Further details can be found in the reference below. Please cite the reference if you happen to use it in your work.
 
